@@ -56,7 +56,10 @@ marp: true
 
 ### アンケートのお願い
 
-![bg 70%](images/e7dce9f6c1e6d52fb206452f1ed652ec20994a28571e71de08b84af6aeef200f.png)  
+![bg 85%](images/e7dce9f6c1e6d52fb206452f1ed652ec20994a28571e71de08b84af6aeef200f.png)  
+
+
+![bg 70%](images/9173c1ae418719616007ac22010167e6e5b8fff4fea38a68916d27a5c02dea7f.png)  
 
 ---
 
